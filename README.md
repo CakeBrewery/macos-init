@@ -1,6 +1,11 @@
 # MacOS Init
 
-Personal script for first-time MacOS init. Installs CLI basic, coding agents, and programming languages.
+Personal script for first-time MacOS init. Installs CLI basics, coding agents, and programming languages. Also installs my baseline Vim configuration. 
+
+```
+chmod u+x start.sh
+./start.sh
+```
 
 ## Other frequent apps
 
